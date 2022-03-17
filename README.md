@@ -3,7 +3,7 @@ I create my own front end for google serch. I make it for cs50 web course. (logo
 
 ## Look the result
 
-You can check my site at:
+#### You can check my site at:
 - mygoogle.iscool.ml (Thanks for freenom)
-Or watch video:
+#### Or watch video:
 - https://youtu.be/0Pc15tBG6NM
